@@ -1,4 +1,4 @@
-# Projet-Azure-AKS-Contoso
+# Projet Azure AKS Contoso
 
 # Projet de fin d'études de formation Administrateur Système DevOps
 
